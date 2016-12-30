@@ -1,0 +1,22 @@
+{
+  "name": "random_quote_machine",
+  "homepage": "https://github.com/martinnett/random_quote_machine",
+  "authors": [
+    "martinnett <martin_nett@icloud.com>"
+  ],
+  "description": "Random Quote Machine",
+  "main": "",
+  "keywords": [
+    "random",
+    "quote",
+    "freecodecamp"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
